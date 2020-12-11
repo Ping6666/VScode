@@ -1,0 +1,11 @@
+{
+	"C_Cpp.intelliSenseEngine": "Tag Parser",
+	"files.exclude": {
+		"C:/Users/user/Documents/Unreal Projects/CarDriveProject/.vs": true,
+		"C:/Users/user/Documents/Unreal Projects/CarDriveProject/.vscode": true,
+		"C:/Users/user/Documents/Unreal Projects/CarDriveProject/Content": true,
+		"C:/Users/user/Documents/Unreal Projects/CarDriveProject/DerivedDataCache": true,
+		"C:/Users/user/Documents/Unreal Projects/CarDriveProject/Intermediate": true,
+		"C:/Users/user/Documents/Unreal Projects/CarDriveProject/Saved": true
+	}
+}
